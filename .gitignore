@@ -1,0 +1,5 @@
+# 画像やフォントを無視
+assets/*.png
+assets/*.jpg
+assets/*.jpeg
+assets/*.ttf
